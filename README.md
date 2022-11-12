@@ -3,7 +3,7 @@ Building Rest Api using Node and Express Js and with the using of POSTMAN to des
 
 ## 1.Install dependency 
 ```
-npm install Exprss
+npm install Express
 ```
 ```
 npm install nodemon
